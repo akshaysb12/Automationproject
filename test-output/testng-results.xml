@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T14:31:44 IST" name="Suite" finished-at="2023-06-26T14:32:22 IST" duration-ms="37722">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T14:31:44 IST" name="Test" finished-at="2023-06-26T14:32:22 IST" duration-ms="37722">
+      <class name="testbefunky.Editaphoto">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testbefunky.Editaphoto@4803b726]" started-at="2023-06-26T14:31:52 IST" name="setup" finished-at="2023-06-26T14:31:55 IST" duration-ms="3722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editphoto()[pri:0, instance:testbefunky.Editaphoto@4803b726]" started-at="2023-06-26T14:31:55 IST" name="editphoto" finished-at="2023-06-26T14:32:22 IST" duration-ms="26152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editphoto -->
+      </class> <!-- testbefunky.Editaphoto -->
+      <class name="testbefunky.Befunkytest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testbefunky.Befunkytest@6e0f5f7f]" started-at="2023-06-26T14:31:44 IST" name="setup" finished-at="2023-06-26T14:31:48 IST" duration-ms="4425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Befunkylogintest()[pri:0, instance:testbefunky.Befunkytest@6e0f5f7f]" started-at="2023-06-26T14:31:48 IST" name="Befunkylogintest" finished-at="2023-06-26T14:31:52 IST" duration-ms="3381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Befunkylogintest -->
+      </class> <!-- testbefunky.Befunkytest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
